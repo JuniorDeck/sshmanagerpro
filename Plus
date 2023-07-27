@@ -191,11 +191,11 @@ echo "clear" >> /root/.bashrc
     echo -e "\033[1;37mMAIS INFORMACOES \033[1;31m(\033[1;36mTELEGRAM\033[1;31m)↓ \033[0m"
     echo -e "\033[1;37m@sshmanagerpro\033[0m"
     
-    echo -e "\033[1;37mMODS CONECTA5G \033[1;31m(\033[1;36mTELEGRAM\033[1;31m)↓ \033[0m"
+    echo -e "\033[1;37mSCRIPT CRIADA POR J.DECK \033[1;31m(\033[1;36mTELEGRAM\033[1;31m)↓ \033[0m"
     echo -e "\033[1;37m@sshmanagerprocanal\033[0m"
     
-    echo -e "\033[1;37mPAINEL DE ATUALIZAÇÃO CONECTA5G \033[1;31m(\033[1;36mTELEGRAM\033[1;31m)↓ \033[0m"
-    echo -e "\033[1;37mhttps://www.painelconecta5g.com\033[0m"
+    echo -e "\033[1;37mO MELHOR FERENCIADOR SSH PARA VOCE \033[1;31m(\033[1;36mTELEGRAM\033[1;31m)↓ \033[0m"
+    echo -e "\033[1;37mhttps://www.juniordeck.com\033[0m"
     
     rm $HOME/Plus && cat /dev/null > ~/.bash_history && history -c
 
